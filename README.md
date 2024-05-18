@@ -1,7 +1,10 @@
-## Introduction to EXPRESS JS Part 3
+## Creates Books APIs using ExpressJs
 
 - Third-Party Packages
   - nodemon
+  - sqlite
+  - sqlite3
 - SQLite Methods
+  - all()
   - get()
   - run()
